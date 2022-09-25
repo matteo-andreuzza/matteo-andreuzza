@@ -5,5 +5,7 @@
 - 🔭 I’m currently working on [FlightGear](https://flightgear.org)
 - 🌱 I’m currently learning Python and C++
 - 👯 I’m looking to collaborate on [FlightGear](https://flightgear.org) 
+- ⚙️ I want to learn [Rust](https://www.rust-lang.org/)
 - 📫 How to reach me: andreuzzayt@outlook.it
+
 
